@@ -15,7 +15,7 @@ package
     
     public class Demo extends Sprite
     {
-        // particle designer configurations
+        // particle designer configurations  
         
         [Embed(source="../media/drugs.pex", mimeType="application/octet-stream")]
         private static const DrugsConfig:Class;
