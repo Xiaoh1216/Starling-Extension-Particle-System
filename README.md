@@ -1,5 +1,6 @@
 Starling Extension: Particle System
 ===================================
+[![Build Status](http://ec2-52-88-78-20.us-west-2.compute.amazonaws.com/job/testJob/badge/icon)](http://ec2-52-88-78-20.us-west-2.compute.amazonaws.com/job/testJob/)
 
 The Starling Particle System classes provide an easy way to display particle systems from within the [Starling Framework][1]. That way, adding special effects like explosions, smoke, snow, fire, etc. is very easy to do.
 
