@@ -1,0 +1,6 @@
+<testsuite name="Mocha Tests" tests="2" failures="1" errors="1" skipped="0" timestamp="Fri, 15 Jan 2016 09:57:40 GMT" time="5.009">
+<testcase classname="array" name="should return -1 when the value is not present" time="0"/>
+<testcase classname="async" name="set time out" time="0"><failure><![CDATA[expected true to equal 200
+Error: expected true to equal 200
+    at null._onTimeout (test/test.js:16:29)]]></failure></testcase>
+</testsuite>
